@@ -1,0 +1,14 @@
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\obj\Debug\OAuthHost.csprojResolveAssemblyReference.cache
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\OAuthHost.dll.config
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\OAuthHost.dll
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\OAuthHost.pdb
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\IdentityServer3.dll
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\Microsoft.Owin.dll
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\Owin.dll
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\IdentityServer3.pdb
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\IdentityServer3.xml
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\Microsoft.Owin.xml
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\obj\Debug\OAuthHost.dll
+c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\obj\Debug\OAuthHost.pdb
