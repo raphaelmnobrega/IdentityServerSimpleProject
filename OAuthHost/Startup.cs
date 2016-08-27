@@ -1,5 +1,6 @@
 ﻿using System.IO;
 using System.Security.Cryptography.X509Certificates;
+using System.Web;
 using IdentityServer3.Core.Configuration;
 using Microsoft.Owin;
 using Owin;
@@ -18,7 +19,7 @@ namespace OAuthHost
                 .UseInMemoryScopes(inMemoryManager.GetScopes())
                 .UseInMemoryClients(inMemoryManager.GetClients());
 
-            string certificate = @"c:\users\phede\documents\visual studio 2013\Projects\OAuthTest\OAuthHost\phederal-cert.pfx";
+            string certificate = HttpContext.Current.Server.MapPath("~/phederal-cert.pfx");
 
             var options = new IdentityServerOptions
             {
